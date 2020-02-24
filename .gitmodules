@@ -1,0 +1,4 @@
+[submodule "OCA/vertical-association"]
+	path = OCA/vertical-association
+	url = git@github.com:OCA/vertical-association.git
+	branch = 13.0
